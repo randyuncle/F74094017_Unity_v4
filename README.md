@@ -21,3 +21,7 @@ How to play this game :
 		Press "exit" button to exit this game.
 		
 Screen shots of my game :
+<<<<<<< HEAD
+=======
+	
+>>>>>>> d25e0373d4fdd8e0fd8bdb757f23638c1afaaf4f
